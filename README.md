@@ -24,7 +24,7 @@ Languages and Tools:
 ![image](https://github.com/user-attachments/assets/af4a8287-7744-4f27-ad4e-b25906115629)
 ![image](https://github.com/user-attachments/assets/3cdc6a07-85d7-47e0-91cd-fd99ada1cd1e)
 ![image](https://github.com/user-attachments/assets/821bf19b-c9fa-4384-9ec3-f5b62bdd0e34)
-![image](https://github.com/user-attachments/assets/c34a0163-6d60-4b0e-bd9c-030b1310a699)
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FGitHub&psig=AOvVaw0Mz1d1mTsPvoaFxireafgb&ust=1734174042409000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi8mfHLpIoDFQAAAAAdAAAAABAV)
 
 
 
