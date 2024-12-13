@@ -15,7 +15,11 @@ Hi! I'm a passionate Data Science Enthusiast with a strong academic foundation i
 
 Languages and Tools:
 
-(https://github.com/user-attachments/assets/af97150e-946d-48c4-849c-3ef409f30408) ![image] ![image](https://github.com/user-attachments/assets/5024d9f4-afe1-41cd-96ba-c135f63ab1e5) ![image](https://github.com/user-attachments/assets/5e96d1cf-3453-4ac0-9f66-3550e2599942) ![image](https://github.com/user-attachments/assets/f278ce06-f29c-44a5-a330-33cfec0b2a1a) 
+![image](https://github.com/user-attachments/assets/45dac0fc-61a1-4077-8c9e-d4b31228b833)![image](https://github.com/user-attachments/assets/faab4bf8-e8f2-41d6-8676-3a196d033235)![image](https://github.com/user-attachments/assets/a9027a55-859f-4a41-9cff-90a967c73950)![image](https://github.com/user-attachments/assets/0e5f67d8-4ef0-498d-ad74-385e823d4f61)
+
+
+
+
 
 
 
