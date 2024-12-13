@@ -15,7 +15,16 @@ Hi! I'm a passionate Data Science Enthusiast with a strong academic foundation i
 
 Languages and Tools:
 
-python numpy pandas html5 seaborn pytorch scikit-learn mysql tensorflow github
+Python: 🐍
+NumPy: 🔢
+Pandas: 🐼
+HTML5: 🌐
+Seaborn: 🦢
+PyTorch: 🔥
+Scikit-learn: 🔍
+MySQL: 🐬
+TensorFlow: 🧠
+GitHub: 🐙
 
 
 
