@@ -15,16 +15,8 @@ Hi! I'm a passionate Data Science Enthusiast with a strong academic foundation i
 
 
 Languages and Tools:
-![do](https://github.com/user-attachments/assets/0ad40167-2b25-49df-ab3d-d78015a28d06)
-![do1](https://github.com/user-attachments/assets/09f3705d-685a-4584-824b-78acd1d73e33)
-![image](https://github.com/user-attachments/assets/43204c25-b2be-4baa-8880-410513f80b66)
-![image](https://github.com/user-attachments/assets/da8ebf99-8518-4b04-a3bb-495622a7140e)
-![image](https://github.com/user-attachments/assets/581dda8f-b523-4f3a-aab2-081c3fe1208c)
-![image](https://github.com/user-attachments/assets/2777c4c3-2eb1-42b3-ad51-1e76b58bf801)
-![image](https://github.com/user-attachments/assets/af4a8287-7744-4f27-ad4e-b25906115629)
-![image](https://github.com/user-attachments/assets/3cdc6a07-85d7-47e0-91cd-fd99ada1cd1e)
-![image](https://github.com/user-attachments/assets/821bf19b-c9fa-4384-9ec3-f5b62bdd0e34)
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FGitHub&psig=AOvVaw0Mz1d1mTsPvoaFxireafgb&ust=1734174042409000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi8mfHLpIoDFQAAAAAdAAAAABAV)
+![687474703a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966](https://github.com/user-attachments/assets/745ca614-60e5-4f9d-91b7-9a12758cfcde)
+
 
 
 
